@@ -11,4 +11,4 @@ def test_output():
         print("Test failed: Unexpected output") 
         sys.exit(1)
 
-if _name_ == "__main__": test_output()
+if __name__ == "__main__": test_output()
