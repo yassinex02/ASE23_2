@@ -1,6 +1,6 @@
 import numpy as np
 def my_function():
-    arr = np.array([1, 2, 3]) 
+    arr = np.array([4, 5, 3]) 
     return np.sum(arr)
 
 
